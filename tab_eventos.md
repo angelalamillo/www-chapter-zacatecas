@@ -1,9 +1,9 @@
 ---
-title: Example
+title: Eventos
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: eventos
 ---
 
 ## Example
